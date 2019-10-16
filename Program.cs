@@ -10,7 +10,11 @@ namespace GitDemo
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Hello World");
+=======
+            Console.WriteLine("Super Cool Stuff");
+>>>>>>> Super-Cool-Branch-1
         }
     }
 }
